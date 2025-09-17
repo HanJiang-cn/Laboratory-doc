@@ -1,0 +1,20 @@
+/*添加样式
+1.主题美化
+2.彩虹背景动画
+3.容器颜色
+4.导航栏毛玻璃
+5.记号笔（使用：<sapn class="marker-text">这里是重重点</sapn>）
+6.代码块美化
+7.代码块分组美化
+
+*/
+
+/* index.css */
+@import './var.css';
+@import './rainbow.css';
+@import './blockquote.css';
+@import './blur.css';
+@import './marker.css';
+@import './vp-code.css';
+@import './vp-code-group.css';
+@import './custom-block.css';
