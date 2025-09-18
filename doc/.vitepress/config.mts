@@ -2,10 +2,16 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/Laboratory-doc/',
+  base: '/',
+  cleanUrls: true, //开启纯净链接 //
   title: "大学生科技创新实验室文档",
   description: "招新文档",
   lastUpdated: true,
+
+  //fav图标
+  head: [
+    ['link',{ rel: 'icon', href: '/favicon.ico'}],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
