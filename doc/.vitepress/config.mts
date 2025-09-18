@@ -12,6 +12,15 @@ export default defineConfig({
   head: [
     ['link',{ rel: 'icon', href: '/favicon.ico'}],
   ],
+
+  // markdown配置
+    markdown: {
+      image: {
+        // 开启图片懒加载
+        lazyLoading: true
+      },
+    },
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     // 导航栏
