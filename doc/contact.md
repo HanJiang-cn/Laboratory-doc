@@ -84,7 +84,7 @@ const members = [
 
 <sapn class="marker-text">计算机科学与工程学院 8A214</sapn>
 
-![](./sysdztp.jpg)
+![](https://image.2119.online/2025/09/18/sysdztp-68cbbf5a23462.jpg)
 
 ## 实验室主要负责人联系方式
 
