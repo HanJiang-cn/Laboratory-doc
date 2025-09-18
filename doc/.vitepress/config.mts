@@ -38,7 +38,7 @@ export default defineConfig({
       { text: 'Q&A', link: '/qa' },
       { text: '实验室主要项目', 
         items: [
-          { text: '前言', link: '/projects/preface' },
+          { text: '前言', link: '/project/preface' },
           { text: '重点项目', 
             items: [
               { text: '临界拓池', link: '/project/ljtc' },
