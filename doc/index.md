@@ -10,10 +10,10 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /markdown-examples
+      link: /preface
     - theme: alt
       text: 联系我们
-      link: /api-examples
+      link: /contact
 
 features:
   - icon: 📝
