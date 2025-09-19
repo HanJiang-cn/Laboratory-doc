@@ -39,7 +39,6 @@ export default defineConfig({
         items: [
           { text: '前言', link: '/assessment/preface' },
           { text: '考核题', link: '/assessment/questions' },
-          { text: '考核要求', link: '/assessment/requirements' },
           { text: '考核提交', link: '/assessment/submission' },
           { text: '考核时间及相关安排', link: '/assessment/time' },
         ]
@@ -172,7 +171,6 @@ export default defineConfig({
           items: [
             { text: '前言', link: '/assessment/preface' },
             { text: '考核题', link: '/assessment/questions' },
-            { text: '考核要求', link: '/assessment/requirements' },
             { text: '考核提交', link: '/assessment/submission' },
             { text: '考核时间及相关安排', link: '/assessment/time' },
           ]
